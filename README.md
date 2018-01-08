@@ -1,2 +1,1 @@
-# spicesandmix
-Spices and Mix Website
+This will always be a work in progress..
