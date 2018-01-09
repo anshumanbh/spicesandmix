@@ -3,6 +3,29 @@
 	margin: 0 auto;
 }
 
+#us_image, #about_para_1, #gogo_image, #chef_image, #about_para_2, #about_para_3 {}
+#left_floating_image, #right_floating_image {
+	width:250px;
+	height:250px;
+	border-radius: 50%; 
+	object-fit: cover;
+}
+#left_floating_image {
+	float: left;
+	margin-right:15px;
+}
+
+#right_floating_image {
+	float: right;
+	margin-left:15px;
+}
+
+#about_para_1, #about_para_2, #about_para_3 {
+	margin-top: 50px;
+	margin-bottom: 80px;
+	text-align: center;
+}
+
 .main-content {
 	@media #{$desktop} {
 		display: flex;
