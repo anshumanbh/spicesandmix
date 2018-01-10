@@ -25,6 +25,7 @@ recipe:
     * Cumin seeds, 1/2 tsp
     * Ghee or any vegetable oil, 3 tbsp
     * Saffron, 4-5 threads, soaked in 1/2 cup warm water
+    * Raisins, 1/2 cup
     * Sea Salt to taste
   directions_markdown: |-
     1. Wash Basmati rice and keep it aside.
