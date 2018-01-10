@@ -3,7 +3,7 @@ date: 2018-01-10
 title: Chia Seed Cocoa Pudding
 categories:
   - Vegetarian
-featured_image: http://preview.ibb.co/cxVnRm/fullsizeoutput_32f3.jpg
+featured_image: http://image.ibb.co/gFKE6m/Full_Size_Render.jpg
 recipe:
   servings: 4
   prep: 15 minutes
