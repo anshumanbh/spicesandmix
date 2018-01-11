@@ -1,3 +1,4 @@
+---
 date: 2018-01-10
 title: Spicy Coconut Shrimp Curry
 categories:
