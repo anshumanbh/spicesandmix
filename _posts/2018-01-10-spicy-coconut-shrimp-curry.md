@@ -10,8 +10,8 @@ recipe:
   cook: 25 minutes
   ingredients_markdown: |-
     * Shrimp, peeled and deveined, 1 lb 
-    * Shallot minced, 1 cup
-    * Tomato diced, 1 cup
+    * Onion, minced, 1 cup
+    * Tomato, diced, 1 cup
     * Garlic, minced, 1 tbsp
     * Green Chillies, 4 small, split in half (optional)
     * Curry leaves, 8 
@@ -30,7 +30,7 @@ recipe:
   directions_markdown: |-
     1. Marinate Shrimp and keep it aside for 30 minutes.
     2. Heat oil in a pan on a medium flame. Add cumin seeds, onion seeds, mustard seeds, green chilli and curry leaves. Let it heat for a minute until seeds stop spluttering.
-    3. Add shallots and garlic and let it sauté on medium-low flame until onion becomes golden brown, around 5 minutes.
+    3. Add onions and garlic and let it sauté on medium-low flame until onion becomes golden brown, around 5 minutes.
     4. Now add tomatoes, coriander powder, turmeric and kashmiri chilli powder. Mix it well and let it cook on a medium-low flame for 7-8 minutes. 
     5. At this point, add shrimp and mix it well. Shrimps should get coated with the spices properly.
     6. Add about 2 cups of water, or according to the consistency you like, and garam masala and bring it to a boil. Season with salt.
