@@ -19,7 +19,6 @@ recipe:
     * Shredded Coconut, 1/2 cup (I use frozen)
     * Water as needed
     * Sea Salt to taste
-  spices_markdown: |-
     * Cumin seeds, 1/2 tsp
     * Onion seeds, 1/4 tsp
     * Mustard seeds, 1/4 tsp
@@ -27,10 +26,9 @@ recipe:
     * Ground Coriander, 1tsp
     * Kashmiri Chilli Powder, 1/2 tsp
     * Garam Masala, 1/2 tsp
-  marination_markdown: |-
     * For Marination (Skip this step if using cooked Shrimp):
-      * Vinegar, 2 tbsp
-      * Kashmiri Chilli Powder, 1/4 tsp
+    * Vinegar, 2 tbsp
+    * Kashmiri Chilli Powder, 1/4 tsp
   directions_markdown: |-
     1. Marinate Shrimp and keep it aside for 30 minutes.
     2. Heat oil in a pan on a medium flame. Add cumin seeds, onion seeds, mustard seeds, green chilli and curry leaves. Let it heat for a minute until seeds stop spluttering.
