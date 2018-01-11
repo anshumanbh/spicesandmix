@@ -19,6 +19,7 @@ recipe:
     * Shredded Coconut, 1/2 cup (I use frozen)
     * Water as needed
     * Sea Salt to taste
+  spices_markdown: |-
     * Cumin seeds, 1/2 tsp
     * Onion seeds, 1/4 tsp
     * Mustard seeds, 1/4 tsp
@@ -26,6 +27,7 @@ recipe:
     * Ground Coriander, 1tsp
     * Kashmiri Chilli Powder, 1/2 tsp
     * Garam Masala, 1/2 tsp
+  marination_markdown: |-
     * For Marination (Skip this step if using cooked Shrimp):
       * Vinegar, 2 tbsp
       * Kashmiri Chilli Powder, 1/4 tsp
