@@ -6,8 +6,8 @@ categories:
 featured_image: http://image.ibb.co/mQ3T96/fullsizeoutput_3334.jpg
 recipe:
   servings: 7-8
-  prep: 40 minutes
-  cook: 1 hour 30 minutes
+  prep: 30 minutes
+  cook: 40 minutes
   ingredients_markdown: |-
     * Ground lamb, 1 lbs
     * Lamb loin chop, 1
@@ -35,7 +35,7 @@ recipe:
     6. Once cooled down, blend the minced lamb mixture in a food processor to a fine paste.
     7. In a large mixing bowl, add blended mixture with shredded lamb, eggs, yogurt, garam masala, mint cilantro paste, salt and mix properly. Eggs will act as a binding agent and yogurt will give a nice colour while frying. 
     8. Make a small patty and shallow fry it in a pan to check seasonings.
-    9. Now make medium size patties from the mixture. Make sure the patties are not too thick or too thin. Refrigerate for 30 minutes.
+    9. Now make medium size patties from the mixture. Make sure the patties are not too thick or too thin. 
     10. In a pan heat oil, enough for shallow frying the kababs. Fry kababs on medium-low flame until golden brown, 2-3 minutes on each side.
     11. Serve hot with mint chutney.
 ---
