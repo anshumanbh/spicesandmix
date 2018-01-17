@@ -46,8 +46,8 @@ Shami Kabab is one of my favourite things that I miss the most about India. Even
 
 1. Make sure cooked minced mixture has ABSOLUTELY NO WATER and is completely dry before cooling it down.
 2. Lentil (Chana daal) should be cooked to a texture that each lentil grain can be seen separately. 
-3. Do not blend the mixture before it is cooled down.
-4. Even after taking all the precautions you end with a soft, soggy mixture, do not fret. Adding all-purpose flour will save your day - just add in little quantity at a time.
+3. DO NOT blend the mixture before it is cooled down.
+4. Even after taking all the precautions if you end up with a soft, soggy mixture, do not fret. Adding all-purpose flour will save your day - just add in little quantity at a time.
 
 Now that we are finally making such delicious kababs, why not make some extra and save it for a bad day. You can make extra patties by simply multiplying the recipe and store it in the freezer - just thaw them before frying. Perfect for last-minute dinner or to serve to guests.
 
