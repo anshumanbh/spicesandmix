@@ -35,7 +35,7 @@ recipe:
     5. When Instant Pot time is up, do a quick release and open the lid. Take lamb chop out in a bowl and pound it with light hands using a pestle or a heavy spatula. It should look fibrous and not a paste. This will add texture to kababs. 
     6. Once cooled down, blend the minced lamb mixture in a food processor to a fine paste.
     7. In a large mixing bowl, add blended mixture with shredded lamb, eggs, yogurt, garam masala, mint cilantro paste, salt and mix properly. Eggs will act as a binding agent and yogurt will give a nice colour while frying. 
-    8. Make a small patty and shallow fry it in a pan to check seasonings.
+    8. Make a small patty, shallow fry it in a pan and taste to check seasonings. Adjust accordingly.
     9. Now make medium size patties from the mixture. Make sure the patties are not too thick or too thin. 
     10. In a pan heat oil, enough for shallow frying the kababs. Fry kababs on medium-low flame until golden brown, 2-3 minutes on each side.
     11. Serve hot with mint chutney.
