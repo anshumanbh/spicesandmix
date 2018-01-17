@@ -16,6 +16,7 @@ recipe:
     * Cumin seeds, 1/2 Tsp
     * Coriander seeds, 1/2 tbsp
     * Garam Masala, 1 Tsp
+    * Turmeric, 1/4 Tsp
     * Dry red chillies, 2 (Alternatively, you can use 1/2 tsp Cayenne pepper)
     * Greek yogurt, 2 tbsp (if using normal yogurt, put it in a strainer for 15 minutes to drain out water)
     * Ginger garlic paste, 1/2 tbsp
@@ -27,7 +28,7 @@ recipe:
     * Oil for frying 
 
   directions_markdown: |-
-    1. Mix ground lamb, split chickpeas, dry red chillies, 1/4 cup onion, coriander seeds, cumin seeds, salt, and 2 cups water. Cook in Instant Pot on high pressure for 3 minutes in Sealing mode. Alternatively, you can also cook on the gas stove in a pan until all the water is evaporated and lentil is cooked properly but not mushy.
+    1. Mix ground lamb, split chickpeas, dry red chillies, 1/4 cup onion, coriander seeds, cumin seeds, turmeric, salt, and 2 cups water. Cook in Instant Pot on high pressure for 3 minutes in Sealing mode. Alternatively, you can also cook on the gas stove in a pan until all the water is evaporated and lentil is cooked properly but not mushy.
     2. After 3 minutes, do a quick release and open the lid. The water should be completely evaporated and lentil should be cooked to tender. If not, turn on the Instant Pot to Sautè mode and cook with regular stirring. It is important for the mixture to be completely dry. Let the mixture cool down completely on a tray or a plate.
     3. In the meantime cook lamb chop, 1 tsp ginger garlic paste, salt and around 2-3 cups water in Instant Pot in high pressure for 7-8 minutes in Sealing mode, until the meat is tender.
     4. While the lamb chop is cooking, in a food processor mix cup cilantro, mint, serrano pepper, 1 cup onion and make a coarse paste. Do not a make a fine paste else onions will become a watery mess.
