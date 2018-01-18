@@ -2,7 +2,7 @@
 date: 2018-01-17
 title: Instant Pot Methi Murg
 categories:
-  - Non - vegetarian
+  - Non-vegetarian
 featured_image: http://image.ibb.co/b2Cmgm/fullsizeoutput_3361.jpg
 recipe:
   servings: 4-5
