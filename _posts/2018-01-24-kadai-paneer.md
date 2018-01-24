@@ -42,6 +42,6 @@ recipe:
     11. Add cream, paneer and season with salt. Cook for 2-3 minutes, until paneer is cooked. Overcooking the paneer will make it hard and rubbery. 
     12. Garnish with cilantro leaves and grated paneer. Serve hot with rice or naan.
 ---
-Paneer (or cottage cheese), when cooked in a wok like pan with more depth, called Kadai, is generally referred to as Kadai Paneer. It is cooked with onion-tomato purée and a blend of ground spices called Kadai Masala. The aroma and taste of freshly ground spices gives Kadai Paneer its unique identity. It can be cooked dry or with gravy, depending on the consistency you prefer.
+Paneer (or cottage cheese), when cooked in a wok-like pan with more depth, called Kadai, is generally referred to as Kadai Paneer. It is cooked with onion-tomato purée and a blend of ground spices called Kadai Masala. The aroma and taste of freshly ground spices gives Kadai Paneer its unique identity. It can be cooked dry or with gravy, depending on the consistency you prefer.
 
 For the Kadai Masala, it is preferable to use dry Kashmiri chilli, which gives it a beautiful red color and is less spicy. But you can also use normal dry chilli along with Kashmiri chilli powder in the curry. Regarding the quantity of Kadai Masala, I always make some extra and use it to garnish various other curries. If it is not possible to grind spices for the exact quantity, please feel free to use leftover Kadai Masala in other curries you cook.
