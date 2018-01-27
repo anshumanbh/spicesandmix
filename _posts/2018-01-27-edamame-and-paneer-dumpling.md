@@ -37,7 +37,7 @@ recipe:
 ---
 Ever since trying Edamame Dumpling in one of the restaurants, I always wanted to recreate the dish but wanted to add my own touch to it. Hence, to Indian-ize it, I added paneer in the filling which also gives a smooth velvety texture to the filling.
 
-This version screams fusion and trust me when I say that you can’t have just some, so having a batch in the freezer would be a good idea. Served the dumplings with chilli oil, the recipe of which is by omnivorescookbook. 
+This version screams fusion and trust me when I say that you can’t have just some, so having a batch in the freezer would be a good idea. Served the dumplings with chilli oil, the recipe of which is by [omnivorescookbook](https://omnivorescookbook.com/how-to-make-chili-oil/). 
 
 Below is a step-by-step instruction on how to fold dumplings. I hope you enjoy this recipe while I go and think of some other variation. 
 
