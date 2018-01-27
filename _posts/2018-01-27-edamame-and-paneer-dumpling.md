@@ -11,7 +11,7 @@ recipe:
   ingredients_markdown: |-
     * Wonton wrappers, 12 oz package
     * Edamame, frozen, 12 oz
-    * Shallots, minced, 2 tbsp (I used shallots because they have a very mild taste but you can use yellow onions too)
+    * Shallots, minced, 2 tbsp (I used shallots because they have a mild taste but you can use yellow onions too)
     * Chilli Powder, 1/8 tsp (optional)
     * Garam masala, 1/8 Tsp 
     * Paneer, crumbled, 3/4 cup ( submerge it in warm water for 15-20 minutes if you are using packaged paneer to make it soft)
@@ -41,19 +41,19 @@ This version screams fusion and trust me when I say that you can’t have just s
 
 Below is a step-by-step instruction on how to fold dumplings. I hope you enjoy this recipe while I go and think of some other variation. 
 
-http://image.ibb.co/jFwqob/fullsizeoutput_34af.jpg
+![1](http://image.ibb.co/jFwqob/fullsizeoutput_34af.jpg)
 
 Place two teaspoon of filling in the centre of a wonton wrapper.
-http://image.ibb.co/kS0uEG/fullsizeoutput_34ae.jpg
+![2](http://image.ibb.co/kS0uEG/fullsizeoutput_34ae.jpg)
 
 Damp the edges with water using fingers.
-http://image.ibb.co/iEHPEG/fullsizeoutput_34b0.jpg
+![3](http://image.ibb.co/iEHPEG/fullsizeoutput_34b0.jpg)
 
 Bring opposite corners together to form a triangle and press along the edges. Make sure the edges adhere to each other and there is no air pocket inside.
-http://image.ibb.co/nDeFMw/fullsizeoutput_34a1.jpg
+![4](http://image.ibb.co/nDeFMw/fullsizeoutput_34a1.jpg)
 
 Moisten the two ends of wide side and bring them together. Press to adhere. Repeat the process for all wrappers.
-http://image.ibb.co/kZGUgw/fullsizeoutput_34a6.jpg
+![5](http://image.ibb.co/kZGUgw/fullsizeoutput_34a6.jpg)
 
 Keep dumplings covered with a damp cloth to prevent from getting dry.
-http://image.ibb.co/mrZzgw/fullsizeoutput_34ac.jpg
+![6](http://image.ibb.co/mrZzgw/fullsizeoutput_34ac.jpg)
