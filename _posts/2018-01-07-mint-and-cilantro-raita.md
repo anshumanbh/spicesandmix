@@ -2,7 +2,7 @@
 date: 2018-01-07
 title: Mint and Cilantro Raita
 categories:
-  - Vegetarian
+  - Sides
 featured_image: http://image.ibb.co/nw1ZZw/Full_Size_Render.jpg
 recipe:
   servings: 4
