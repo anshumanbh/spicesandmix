@@ -2,7 +2,7 @@
 date: 2018-01-06
 title: Instant Pot Paneer Pulao
 categories:
-  - Vegetarian
+  - Vegetarian, Instant Pot
 featured_image: https://image.ibb.co/dQcVrb/paneerpulao.jpg
 recipe:
   servings: 4
