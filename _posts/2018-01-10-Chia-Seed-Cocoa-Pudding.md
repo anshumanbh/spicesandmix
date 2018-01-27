@@ -2,7 +2,7 @@
 date: 2018-01-10
 title: Chia Seed Cocoa Pudding
 categories:
-  - Vegetarian
+  - Breakfast
 featured_image: http://image.ibb.co/gFKE6m/Full_Size_Render.jpg
 recipe:
   servings: 4
