@@ -3,6 +3,7 @@ date: 2018-01-11
 title: Instant Pot Matar Paneer
 categories:
   - Vegetarian
+  - Instant Pot
 featured_image: http://image.ibb.co/eTyNBm/fullsizeoutput_3302.jpg
 recipe:
   servings: 4-6
