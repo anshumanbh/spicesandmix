@@ -31,6 +31,8 @@ recipe:
     6. Serve hot with green chutney or ketchup.
 ---
 One of the quickest and easiest breakfast options, this mini vegetable rawa/semolina/suji pancake is not only perfect for breakfast but also an evening snack. And since rawa is a coarse granulated grain (mostly wheat), these pancakes are packed with nutritional goods too.
+
+I have added step-by-step pictures below. Hope you will enjoy the recipe with your family and friends.
  
 ![1](http://image.ibb.co/czLMim/fullsizeoutput_34e3.jpg)
 
