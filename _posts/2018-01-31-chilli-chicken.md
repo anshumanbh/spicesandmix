@@ -40,11 +40,6 @@ recipe:
     5. Mix cornstarch with 1/2 cup water and make a slurry. Add the slurry and chicken stock into the pan. Bring to a boil and season with salt. 
     6. Add chicken pieces and spring onions and cook for 2 minutes on medium-high flame until chicken is properly coated with sauce. 
     7. Garnish with spring onions and serve hot with noodles or fried rice.
-    
-    Note:
-1. Using chicken stock instead of water in gravy gives a very nice flavor. 
-2. The ratio of different sauces can be modified according to taste.
-3. If you want dry chilli chicken, skip adding chicken stock and cook chicken with the sauce for 4-5 minutes.
 ---
 Indo-Chinese is a modified Chinese cuisine which is famous in India and Pakistan and is spicier compared to authentic Chinese cuisine. 
 
@@ -53,3 +48,8 @@ If there is one dish I like the most in the world, it is Chilli Chicken. It is m
 Growing up in India, I always believed that the Chinese food we ate and loved so much is, in fact, authentic Chinese cuisine. Much to my disappointment, when I went to an authentic Chinese restaurant after moving to the US for the first time, I was utterly shocked. The real authentic Chinese food tasted no way near to what I was used to eating in the form of Indo Chinese cuisines such as Chilli Chicken or Manchurian. Now, after being in the states for quite some time now, I have these occasional cravings for Chilli Chicken and it is extremely difficult to find a place that serves authentic Chilli Chicken, the taste I know of. 
 
 I prefer to use chicken thighs for the fact that they are more tender even after frying and cooking with the sauces. This is a spicy recipe but spice level can be altered according to personal taste. 
+
+ Note:
+1. Using chicken stock instead of water in gravy gives a very nice flavor. 
+2. The ratio of different sauces can be modified according to taste.
+3. If you want dry chilli chicken, skip adding chicken stock and cook chicken with the sauce for 4-5 minutes.
