@@ -2,7 +2,7 @@
 date: 2018-01-16
 title: Shami Kabab (Minced Meat Patty)
 categories:
-  - Non-vegetarian
+  - Non-Vegetarian
 featured_image: http://image.ibb.co/mQ3T96/fullsizeoutput_3334.jpg
 recipe:
   servings: 7-8
