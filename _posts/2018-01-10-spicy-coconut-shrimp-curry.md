@@ -41,4 +41,4 @@ I was introduced to shrimps after coming to the United States. It was a love-hat
 
 I have been trying different recipes and variations of Shrimp curry over the years. After much trying and failing, I can confidently say that this is the one that I like the most. Hope you will enjoy it too!
 
-![image1](http://image.ibb.co/jygYXR/fullsizeoutput_32a1.jpg)
+![image1](https://image.ibb.co/huzz8m/fullsizeoutput_32a1.jpg)
