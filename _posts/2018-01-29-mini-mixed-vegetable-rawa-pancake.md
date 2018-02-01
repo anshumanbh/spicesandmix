@@ -4,7 +4,7 @@ title: Mini Mixed Vegetable Rawa/Semolina/Suji Pancake
 categories:
   - Vegetarian
   - Breakfast
-featured_image: http://image.ibb.co/cSYtUR/fullsizeoutput_34d6.jpg
+featured_image: https://image.ibb.co/mQ0gom/fullsizeoutput_34d6.jpg
 recipe:
   servings: 4
   prep: 20 minutes
