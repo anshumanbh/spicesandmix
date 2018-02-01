@@ -3,7 +3,7 @@ date: 2018-01-27
 title: Edamame and Paneer Dumpling
 categories:
   - Vegetarian
-featured_image: https://image.ibb.co/mQ0gom/fullsizeoutput_34d6.jpg
+featured_image: https://image.ibb.co/gJbAg6/Full_Size_Render_1.jpg
 recipe:
   servings: 48 dumplings
   prep: 50 minutes
