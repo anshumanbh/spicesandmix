@@ -4,7 +4,7 @@ title: Instant Pot Matar Paneer
 categories:
   - Vegetarian
   - Instant Pot
-featured_image: http://image.ibb.co/eTyNBm/fullsizeoutput_3302.jpg
+featured_image: https://image.ibb.co/jvu5g6/fullsizeoutput_3302.jpg
 recipe:
   servings: 4-6
   prep: 15 minutes
