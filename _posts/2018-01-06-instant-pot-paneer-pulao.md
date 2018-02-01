@@ -4,7 +4,7 @@ title: Instant Pot Paneer Pulao
 categories:
   - Vegetarian
   - Instant Pot
-featured_image: ![paneer pulao](../imgs/paneerpulao.jpg)
+featured_image: ![paneer pulao](paneerpulao.jpg)
 recipe:
   servings: 4
   prep: 15 minutes
