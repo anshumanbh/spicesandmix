@@ -2,7 +2,7 @@
 date: 2018-01-10
 title: Spicy Coconut Shrimp Curry
 categories:
-  - Non-vegetarian
+  - Non-Vegetarian
 featured_image: http://image.ibb.co/mAFoz6/fullsizeoutput_32f6.jpg
 recipe:
   servings: 4
