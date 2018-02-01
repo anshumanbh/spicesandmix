@@ -3,7 +3,7 @@ date: 2018-01-07
 title: Mint and Cilantro Raita
 categories:
   - Sides
-featured_image: http://image.ibb.co/nw1ZZw/Full_Size_Render.jpg
+featured_image: https://image.ibb.co/nxKSuR/Full_Size_Render_1.jpg
 recipe:
   servings: 4
   prep: 5 minutes
