@@ -35,9 +35,9 @@ One of the quickest and easiest breakfast options, this mini vegetable rawa/sem
 I have added step-by-step pictures below. Hope you will enjoy the recipe with your family and friends.
 
 Combine all ingredients together in a large mixing bowl and mix well. Set batter aside for 15 minutes.
-![1](http://image.ibb.co/czLMim/fullsizeoutput_34e3.jpg)
+![1](https://image.ibb.co/gvxNuR/fullsizeoutput_34e3.jpg)
 
-![2](http://image.ibb.co/hrea9R/fullsizeoutput_34df.jpg)
+![2](https://image.ibb.co/h8VsuR/fullsizeoutput_34df.jpg)
 
 Pour a spoonful of batter for each mini pancake. Make multiple if you are using a big pan
-![3](http://image.ibb.co/mVu8UR/fullsizeoutput_34dd.jpg)
+![3](https://image.ibb.co/ejBbM6/fullsizeoutput_34dd.jpg)
