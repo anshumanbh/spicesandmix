@@ -47,9 +47,10 @@ If there is one dish I like the most in the world, it is Chilli Chicken. It is m
 
 Growing up in India, I always believed that the Chinese food we ate and loved so much is, in fact, authentic Chinese cuisine. Much to my disappointment, when I went to an authentic Chinese restaurant after moving to the US for the first time, I was utterly shocked. The real authentic Chinese food tasted no way near to what I was used to eating in the form of Indo Chinese cuisines such as Chilli Chicken or Manchurian. Now, after being in the states for quite some time now, I have these occasional cravings for Chilli Chicken and it is extremely difficult to find a place that serves authentic Chilli Chicken, the taste I know of. 
 
-I prefer to use chicken thighs for the fact that they are more tender even after frying and cooking with the sauces. This is a spicy recipe but spice level can be altered according to personal taste. 
+I prefer to use chicken thighs for the fact that they are more tender even after frying and cooking with the sauces. 
 
  Note:
 1. Using chicken stock instead of water in gravy gives a very nice flavor. 
 2. The ratio of different sauces can be modified according to taste.
 3. If you want dry chilli chicken, skip adding chicken stock and cook chicken with the sauce for 4-5 minutes.
+4. This is a spicy recipe but spice level can be altered according to personal taste. 
