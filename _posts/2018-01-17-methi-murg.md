@@ -5,6 +5,7 @@ categories:
   - Non-Vegetarian
   - Instant Pot
 featured_image: https://image.ibb.co/iYgCTm/fullsizeoutput_3361.jpg
+image_name: instant-pot-methi-murg.jpg
 recipe:
   servings: 4-5
   prep: 40 minutes

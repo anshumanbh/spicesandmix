@@ -5,6 +5,7 @@ categories:
   - Vegetarian
   - Instant Pot
 featured_image: https://image.ibb.co/jvu5g6/fullsizeoutput_3302.jpg
+image_name: instant-pot-matar-paneer.jpg
 recipe:
   servings: 4-6
   prep: 15 minutes

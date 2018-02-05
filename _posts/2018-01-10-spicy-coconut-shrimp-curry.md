@@ -4,6 +4,7 @@ title: Spicy Coconut Shrimp Curry
 categories:
   - Non-Vegetarian
 featured_image: https://image.ibb.co/nebqER/fullsizeoutput_32f6.jpg
+image_name: spicy-coconut-shrimp-curry.jpg
 recipe:
   servings: 4
   prep: 20 minutes

@@ -4,6 +4,7 @@ title: Kadai Paneer
 categories:
   - Vegetarian
 featured_image: https://image.ibb.co/bzmbM6/fullsizeoutput_3449.jpg
+image_name: kadai-paneer.jpg
 recipe:
   servings: 6
   prep: 30 minutes

@@ -4,6 +4,7 @@ title: Shami Kabab (Minced Meat Patty)
 categories:
   - Non-Vegetarian
 featured_image: https://image.ibb.co/fKsag6/fullsizeoutput_3334.jpg
+image_name: shami-kabab.jpg
 recipe:
   servings: 7-8
   prep: 30 minutes

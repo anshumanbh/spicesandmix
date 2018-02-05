@@ -4,6 +4,7 @@ title: Chilli Chicken
 categories:
   - Non-Vegetarian
 featured_image: https://image.ibb.co/mYagom/fullsizeoutput_350e.jpg
+image_name: chilli-chicken.jpg
 recipe:
   servings: 6
   prep: 10 minutes

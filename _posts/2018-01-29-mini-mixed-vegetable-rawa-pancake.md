@@ -5,6 +5,7 @@ categories:
   - Vegetarian
   - Breakfast
 featured_image: https://image.ibb.co/mQ0gom/fullsizeoutput_34d6.jpg
+image_name: mini-mixed-vegetable-rawa-semolina-suji-pancake.jpg
 recipe:
   servings: 4
   prep: 20 minutes
