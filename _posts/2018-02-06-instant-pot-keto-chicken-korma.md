@@ -43,9 +43,9 @@ recipe:
     10. Add coconut cream and cilantro and mix well. If you want a soupy consistency, add more chicken stock too. Close the lid and cook on high pressure for 3 minutes. Valve should be in the Sealing position.
     11. When the time is up, do a quick release. Serve hot with rice or chapati or just relish it as a stew.
 ---
-Korma is a thick cream based curry that has Mughlai roots. It is a perfect combination of various flavours and is usually mildly spiced. Korma can be cooked with vegetables, paneer, lamb, beef or chicken and can be cooked in various ways.
+Korma is a thick cream based curry that has Mughlai roots. It’s the  perfect combination of various flavours and is usually mildly spiced. Korma can be cooked in various ways by using vegetables, paneer, lamb, beef or chicken.
 
-I am just too obsessed with Instant Pot currently and look for ways to cook all kind of dishes in it. But if you are not on the IP wagon yet, cooking on the stovetop is always an option (with slightly increased time), or you can use a normal pressure cooker. The other best thing about this recipe is that it is Keto friendly. Who says you have to eat just bland food on the Ketogenic diet.
+I’m currently obsessed with my Instant Pot and am always looking for ways to cook all kind of dishes in it. But if you are not on the IP wagon yet, cooking on the stovetop is always an option (with slightly increased time), or you can use a normal pressure cooker. The other great thing about this recipe is that it is Keto friendly. Who says that on the Ketogenic diet you can only eat bland foods?!
 
 Note:
 1. I used cashews to add a creamy texture to curry but you can use almonds too.
