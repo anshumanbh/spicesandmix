@@ -6,9 +6,9 @@ categories:
 featured_image: https://image.ibb.co/mYagom/fullsizeoutput_350e.jpg
 image_name: chilli-chicken.jpg
 recipe:
-  servings: 6
-  prep: 10 minutes
-  cook: 30 minutes
+  servings: Servings - 6
+  prep: Prep time - 10 minutes
+  cook: Cook time - 30 minutes
   ingredients_markdown: |-
     * Chicken thighs, cut into 1-inch pieces, 1 1/2 lbs
     * For Batter:
