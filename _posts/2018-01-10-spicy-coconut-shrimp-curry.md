@@ -6,9 +6,9 @@ categories:
 featured_image: https://image.ibb.co/nebqER/fullsizeoutput_32f6.jpg
 image_name: spicy-coconut-shrimp-curry.jpg
 recipe:
-  servings: 4
-  prep: 20 minutes
-  cook: 25 minutes
+  servings: Servings - 4
+  prep: Prep time - 20 minutes
+  cook: Cook time - 25 minutes
   ingredients_markdown: |-
     * Shrimp, peeled and deveined, 1 lb 
     * Onion, minced, 1 cup
