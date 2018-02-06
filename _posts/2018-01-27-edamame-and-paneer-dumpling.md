@@ -6,9 +6,9 @@ categories:
 featured_image: https://image.ibb.co/gJbAg6/Full_Size_Render_1.jpg
 image_name: edamame-and-paneer-dumpling.jpg
 recipe:
-  servings: 48 dumplings
-  prep: 50 minutes
-  cook: 10 minutes
+  servings: Servings - 48 dumplings
+  prep: Prep time - 50 minutes
+  cook: Cook time - 10 minutes
   ingredients_markdown: |-
     * Wonton wrappers, 12 oz package
     * Edamame, frozen, 12 oz
