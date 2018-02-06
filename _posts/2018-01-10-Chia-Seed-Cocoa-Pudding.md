@@ -6,9 +6,9 @@ categories:
 featured_image: https://image.ibb.co/eyF0ER/Full_Size_Render.jpg
 image_name: chia-seed-cocoa-pudding.jpg
 recipe:
-  servings: 4
-  prep: 15 minutes
-  cook: 15 minutes
+  servings: Servings - 4
+  prep: Prep time - 15 minutes
+  cook: Cook time - 15 minutes
   ingredients_markdown: |-
     * Almond milk, unsweetened, 1 1/2 cup
     * Chia seeds, 1/3 cup
