@@ -7,9 +7,9 @@ categories:
 featured_image: https://image.ibb.co/he6t16/paneerpulao.jpg
 image_name: instant-pot-paneer-pulao.jpg
 recipe:
-  servings: 4
-  prep: 15 minutes
-  cook: 12-15 minutes
+  servings: Servings 4
+  prep: Prep time 15 minutes
+  cook: Cook time 12-15 minutes
   ingredients_markdown: |-
     * Basmati Rice, 2 cups
     * Water, 1 1/2 cups
