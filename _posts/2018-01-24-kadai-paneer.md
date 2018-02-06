@@ -6,9 +6,9 @@ categories:
 featured_image: https://image.ibb.co/bzmbM6/fullsizeoutput_3449.jpg
 image_name: kadai-paneer.jpg
 recipe:
-  servings: 6
-  prep: 30 minutes
-  cook: 35 minutes
+  servings: Servings - 6
+  prep: Prep time - 30 minutes
+  cook: Cook time - 35 minutes
   ingredients_markdown: |-
     * Coriander seeds, 2 tbsp 
     * Cumin, 1 Tsp 
