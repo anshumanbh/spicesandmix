@@ -7,9 +7,9 @@ categories:
 featured_image: https://image.ibb.co/mQ0gom/fullsizeoutput_34d6.jpg
 image_name: mini-mixed-vegetable-rawa-semolina-suji-pancake.jpg
 recipe:
-  servings: 4
-  prep: 20 minutes
-  cook: 10 minutes
+  servings: Servings - 4
+  prep: Prep time - 20 minutes
+  cook: Cook time - 10 minutes
   ingredients_markdown: |-
     * Coarse Rawa (Semolina), 3 cups
     * Yogurt, 1 1/4 cup
