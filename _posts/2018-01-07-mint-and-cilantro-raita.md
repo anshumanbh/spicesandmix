@@ -6,9 +6,9 @@ categories:
 featured_image: https://image.ibb.co/nxKSuR/Full_Size_Render_1.jpg
 image_name: mint-and-cilantro-raita.jpg
 recipe:
-  servings: 4
-  prep: 5 minutes
-  cook: 10 minutes
+  servings: Servings - 4
+  prep: Prep time - 5 minutes
+  cook: Cook time - 10 minutes
   ingredients_markdown: |-
     * Plain Yogurt, 1 1/2 cup
     * Cilantro,  2 tbsp
