@@ -3,6 +3,7 @@ date: 2018-02-06
 title: Instant Pot Keto Chicken Korma
 categories:
   - Non-Vegetarian
+  - Keto
 featured_image: http://image.ibb.co/jFXL1H/Chicken_Korma.jpg
 image_name: chicken-korma.jpg
 recipe:
