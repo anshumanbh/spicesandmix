@@ -7,9 +7,9 @@ categories:
 featured_image: http://image.ibb.co/jFXL1H/Chicken_Korma.jpg
 image_name: chicken-korma.jpg
 recipe:
-  servings: 6-8
-  prep: 15 minutes
-  cook: 20 minutes
+  servings: Servings - 6-8
+  prep: Prep time - 15 minutes
+  cook: Cook time - 20 minutes
   ingredients_markdown: |-
     *  Chicken thighs, cut into 1-inch pieces, 2.5 pounds       
     *  Marination:
