@@ -7,9 +7,9 @@ categories:
 featured_image: https://image.ibb.co/iYgCTm/fullsizeoutput_3361.jpg
 image_name: instant-pot-methi-murg.jpg
 recipe:
-  servings: 4-5
-  prep: 40 minutes
-  cook: 18 minutes
+  servings: Servings - 4-5
+  prep: Prep time - 40 minutes
+  cook: Cook time - 18 minutes
   ingredients_markdown: |-
     * Chicken Thighs, cut into 1-inch pieces, 2 lb
     * Methi (Fenugreek leaves), rough chopped, 2 cups
