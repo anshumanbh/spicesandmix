@@ -6,9 +6,9 @@ categories:
 featured_image: https://image.ibb.co/fKsag6/fullsizeoutput_3334.jpg
 image_name: shami-kabab.jpg
 recipe:
-  servings: 7-8
-  prep: 30 minutes
-  cook: 40 minutes
+  servings: Servings - 7-8
+  prep: Prep time - 30 minutes
+  cook: Cook time - 40 minutes
   ingredients_markdown: |-
     * Ground lamb, 1 lbs
     * Lamb loin chop, 1
