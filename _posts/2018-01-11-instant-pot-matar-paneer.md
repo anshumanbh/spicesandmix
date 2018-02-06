@@ -7,9 +7,9 @@ categories:
 featured_image: https://image.ibb.co/jvu5g6/fullsizeoutput_3302.jpg
 image_name: instant-pot-matar-paneer.jpg
 recipe:
-  servings: 4-6
-  prep: 15 minutes
-  cook: 15-17 minutes
+  servings: Servings - 4-6
+  prep: Prep time - 15 minutes
+  cook: Cook time - 15-17 minutes
   ingredients_markdown: |-
     * Paneer (Indian cottage Cheese), diced, 1 lb ( submerge it in warm water for 15-20 minutes if you are using packaged paneer to make it soft)
     * Roma Tomatoes, diced, 2 cups
