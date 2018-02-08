@@ -32,4 +32,4 @@ recipe:
 ---
  Hakka noodles are one of the most liked Indo-Chinese food in India. Available with street vendors all around, Hakka noodles tastes best with [Chilli Chicken](https://www.spicesandmix.com/non-vegetarian/2018/01/31/chilli-chicken/) or Manchurian. 
 
-Very easy to cook, this one-pot dish is always a favourite at a dinner party or with kids. Also, a good way to use the vegetable at the end of the week before they go bad. Take it up a notch higher and add some eggs or sautéed chicken, beef, pork or shrimp to make it more flavourful. 
+Very easy to cook, this one-pot dish is always a favourite at a dinner party or with kids. Also, a good way to use the vegetable at the end of the week before they go bad. Take it up a notch and add some eggs or sautéed chicken, beef, pork or shrimp to make it more flavourful. 
