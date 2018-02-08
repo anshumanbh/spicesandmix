@@ -3,6 +3,7 @@ date: 2018-01-31
 title: Chilli Chicken
 categories:
   - Non-Vegetarian
+  - Indo-Chinese
 featured_image: https://image.ibb.co/mYagom/fullsizeoutput_350e.jpg
 image_name: chilli-chicken.jpg
 recipe:
