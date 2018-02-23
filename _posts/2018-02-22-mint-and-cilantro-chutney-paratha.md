@@ -33,6 +33,6 @@ recipe:
     7. Repeat the process for all the rolled balls of dough.
     8. Serve hot with chai or a side dish.
 ---
-Paratha is layers of cooked dough, pan-fried with ghee or oil. Back in India, you will find hundreds of versions of paratha, literally. You name any ingredient and there will be an existing paratha using the ingredient. 
+Paratha is layers of cooked dough, pan-fried with ghee or oil. Back in India, you will find hundreds of versions of paratha, literally. You name any ingredient and there will be an existing paratha using the same ingredient. 
 
 Usually, Paratha can be made in two ways - stuffing the dough while rolling or mixing the ingredients with flour while kneading the dough. To make things easier I made a paste of cilantro, mint, ginger,  garlic, pepper, salt, basically a green chutney, and mixed this chutney with flour while kneading the dough. I think I am just gonna call this Chutney Paratha!!!
