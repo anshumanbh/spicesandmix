@@ -6,9 +6,9 @@ categories:
 featured_image: http://image.ibb.co/coM3yH/fullsizeoutput_3510.jpg
 image_name: mint-and-cilantro-chutney-paratha.jpg
 recipe:
-  servings: 4
-  prep: 20 minutes
-  cook: 15 minutes
+  servings: Servings - 4
+  prep: Prep time - 20 minutes
+  cook: Cook time - 15 minutes
   ingredients_markdown: |-
     * Whole wheat flour, 2 cups
     * Cilantro, 1/2 cup
