@@ -1,6 +1,6 @@
 ---
 date: 2018-03-06
-title: Hariyali Chicken/Green Chicken Curry
+title: Hariyali Chicken/Cilantro-Mint Green Chicken Curry
 categories:
   - Non-Vegetarian
   - Instant Pot
