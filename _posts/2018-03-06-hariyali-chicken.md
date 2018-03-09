@@ -4,6 +4,7 @@ title: Hariyali Chicken/Cilantro-Mint Green Chicken Curry
 categories:
   - Non-Vegetarian
   - Instant Pot
+  - Keto
 featured_image: http://image.ibb.co/mYLCv7/Hariyali_Chicken.jpg
 image_name: hariyali-chicken.jpg
 recipe:
