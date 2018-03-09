@@ -4,6 +4,7 @@ title: Instant Pot Methi Murg
 categories:
   - Non-Vegetarian
   - Instant Pot
+  - Keto
 featured_image: https://image.ibb.co/iYgCTm/fullsizeoutput_3361.jpg
 image_name: instant-pot-methi-murg.jpg
 recipe:
