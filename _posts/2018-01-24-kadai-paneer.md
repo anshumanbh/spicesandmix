@@ -3,6 +3,7 @@ date: 2018-01-24
 title: Kadai Paneer
 categories:
   - Vegetarian
+  - Keto
 featured_image: https://image.ibb.co/bzmbM6/fullsizeoutput_3449.jpg
 image_name: kadai-paneer.jpg
 recipe:
