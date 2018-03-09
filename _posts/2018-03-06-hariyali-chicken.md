@@ -40,9 +40,9 @@ recipe:
 ---
 I think I am just obsessed with greens this season. There is no limit to the number of ways they can be used while cooking. And also a smart way to feed people who don’t like to eat raw greens (read, my husband).
 
-I ate Hariyali Chicken number of times in India, but never thought too much about it, until recently. For those who are wondering, Hariyali means Greenery in Hindi. So, just took some bunches of cilantro and mint, blended them and used the paste in the chicken curry. Used minimal spices, not even garam masala..! Yup, I swear. Or, maybe I forgot and didn't even feel the need to add it later.
+I ate Hariyali Chicken number of times in India, but never thought too much about it, until recently. For those who are wondering, Hariyali means Greenery in Hindi. So, just took some bunches of cilantro and mint, blended them and used the paste in the chicken curry. Used minimal spices, not even garam masala..! Yup, I swear. Or, maybe I forgot and didn't even feel the need to add it later. You figure out....
 
-I used mustard oil for it amazing flavor. You should try it if you haven’t ever and trust me, there’ll be no looking back. But what about the strong aroma of mustard oil, you ask.? I used Instant Pot to cook this curry, and high heat and pressure took away the strong aroma. If you use the stove top, just let the oil cook for a tad bit more time. That’s it. 
+I used mustard oil for its amazing flavor. You should try it if you haven’t ever and trust me, there’ll be no looking back. But what about the strong aroma of mustard oil, you ask.? I used Instant Pot to cook this curry, and high heat and pressure took away the strong aroma. If you use the stove top, just let the oil cook for a tad bit more time. That’s it. 
 
 Another magic ingredient I used was onion seeds. I have not tried many dishes with onion seeds in it and I think it is not meant for every dish, because of it’s distinct flavor. I took a chance with this recipe and it worked out perfectly. Also, don’t feel shy to freeze the leftovers. You will thank me later.
 
