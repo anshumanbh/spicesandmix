@@ -1,11 +1,11 @@
 ---
 date: 2018-03-21
-title: Instant Pot Lamb and Potato Curry
+title: Instant Pot Lamb and Potato Curry/Kosha Mangsho
 categories:
   - Instant Pot
   - Non-Vegetarian
 featured_image: http://image.ibb.co/d6MNnx/IMG_6204_1.jpg
-image_name: lamb-and-potato-curry.jpg
+image_name: kosha-mangsho.jpg
 recipe:
   servings: Servings - 4-6
   prep: Prep time- 15 minutes
@@ -39,7 +39,7 @@ recipe:
     8. Do a quick release after 15 minutes natural release and open the lid carefully. 
     9. Garnish with cilantro and serve hot with rice or chapati.
 ---
-Goat curry, or as known in India - Mutton curry, or as I fondly remember - “Mangsho”, has always been my favourite curry, especially if cooked by Mom. I remember, she used to take hours to sauté masala first and then the meat and in the end pressure cook them together. I tried it multiple times in the US with lamb meat but never got the same taste and meat texture as Mom’s, even when I cooked meat on low flame for hours. Never as good as I remembered it to be...
+Goat curry, or as known in India - Mutton curry, or as I fondly remember in Bengali - “Kosha Mangsho”, has always been my favourite curry, especially if cooked by Mom. I remember, she used to take hours to sauté masala first and then the meat and in the end pressure cook them together. I tried it multiple times in the US with lamb meat but never got the same taste and meat texture as Mom’s, even when I cooked meat on low flame for hours. Never as good as I remembered it to be...
 
 Thanks to Instant Pot, the problem with the meat texture is solved along with enormous time-saving. First time I cooked lamb curry in Instant Pot, I miscalculated the time and meat became too tender. But it was delicious enough to fall in love! And my half-Bengali self was too ecstatic. There is something about the combination of tender meat, perfect spices and potatoes to not love…Right?! All Bengalis reading this should know what I mean by potato and happiness! Since my Mom is Bengali, growing up I used to see potatoes in almost all curries - egg curry, chicken curry, mutton curry, vegetable curry. Even though I am not a big fan of this particular starch, seeing half potato floating in the curry always made me happy.
 
