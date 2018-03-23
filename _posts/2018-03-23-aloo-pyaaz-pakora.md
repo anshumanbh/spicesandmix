@@ -3,7 +3,7 @@ date: 2018-03-23
 title: Aloo Pyaaz Pakora/Onion and Potato Fritters
 categories:
   - Sides
-featured_image: http://preview.ibb.co/cT0gX7/IMG_6256.jpg
+featured_image: http://image.ibb.co/ktBukS/IMG_3874.jpg
 image_name: aloo-pyaaz-pakora.jpg
 recipe:
   servings: Servings - 4
