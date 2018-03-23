@@ -34,7 +34,7 @@ Fritters or Pakora or Bhajiya are popular Indian street food. I used onions and 
 Fritters/Pakoras are very popular in almost every kitchen in India, especially during rainy season. Therefore, it was obvious to make them as soon as it rained here in San Diego, especially when it was a weekend. They taste best with cilantro-mint chutney or ketchup; add a cup of chai with the lot and there can be no better evening snack..
 
 Note:
-1. Do not cook potatoes in high flame as the coating will cook before potatoes.
+1. Do not cook potatoes in high flame as the coating will cook before potatoes and can get burnt.
 2. Cooking in the medium-low flame will also make fritters crispy.
 3. The same batter can be used for other vegetables too.
 
