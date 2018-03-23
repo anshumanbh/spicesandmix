@@ -22,6 +22,7 @@ recipe:
     * Turmeric, 1 Tsp
     * Coriander powder, 2 Tsp
     * Kashmiri chilli powder, 1 Tsp or as needed
+    * Garam Masala, 1 Tsp
     * Cumin seeds, 1 Tsp
     * Yogurt whisked with a little water, 2 tbsp
     * Oil, as needed
@@ -35,7 +36,7 @@ recipe:
     4. Add lamb chops, salt and water, depending on the consistency of the curry you like.
     5. Turn off Instant Pot and close the lid. Turn it back on and cook on high pressure for 15 minutes, with the valve in Sealing position.
     6. After the time is up, do a quick release very carefully. If the valve starts spraying liquid, nudge the valve little at a time using a spatula till most of the pressure is released.
-    7. When all the pressure is released, open the lid away from the face carefully. Add whisked yogurt, cilantro and mix well. Now add potatoes and close the lid again. Cook on high pressure for 7 minutes.
+    7. When all the pressure is released, open the lid away from the face carefully. Add whisked yogurt, cilantro, garam masala and mix well. Now add potatoes and close the lid again. Cook on high pressure for 7 minutes.
     8. Do a quick release after 15 minutes natural release and open the lid carefully. 
     9. Garnish with cilantro and serve hot with rice or chapati.
 ---
