@@ -46,10 +46,10 @@ Thanks to Instant Pot, the problem with the meat texture is solved along with en
 With this recipe, I tried to recreate the taste from my Mom’s Indian kitchen to my kitchen in States. And Instant Pot made sure I get the perfect meat tenderness and in less half the time required on a stove top. Most importantly, do not forget that this curry tastes way more delicious the next day!!
 
 Note:
-1. I added lamb chops with bone for additional flavour. The cooked meat is fall-off-the-bone tender, so the bones can be discarded later.
+1. I added lamb chops with bone for additional flavor. The cooked meat is fall-off-the-bone tender, so the bones can be discarded later.
 2. DO NOT cut meat and potatoes into small pieces. High-pressure cooking will make it into a mush. 
-3. I only added Kashmiri chilli powder for colour. If using green chillies, you may not need additional heat so be mindful.
-4. Instead of adding water, any meat stock will add more flavour.
+3. I only added Kashmiri chilli powder for color. If using green chilies, you may not need additional heat so be mindful.
+4. Instead of adding water, any meat stock will add more flavor.
 5. Do not add yogurt directly else it will crumble in the curry. 
 
 
