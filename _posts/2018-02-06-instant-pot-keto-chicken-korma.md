@@ -42,7 +42,7 @@ recipe:
     7. Put the mixture back into the pot and add chicken. Mix well so that chicken pieces are coated evenly. 
     8. Cook chicken in high pressure for 6 minutes with the valve in Sealing position.
     9. Do a quick release when the time is up and open the lid carefully. 
-    10. Add coconut cream and cilantro and mix well. If you want a soupy consistency, add more chicken stock too. Close the lid and cook on high pressure for 3 minutes. Valve should be in the Sealing position.
+    10. Add coconut cream and cilantro and mix well. If you want a soupy consistency, add some chicken stock too. Close the lid and cook on high pressure for 3 minutes. Valve should be in the Sealing position.
     11. When the time is up, do a quick release. Serve hot with rice or chapati or just relish it as a stew.
 ---
 Korma is a thick cream based curry that has Mughlai roots. It’s the  perfect combination of various flavours and is usually mildly spiced. Korma can be cooked in various ways by using vegetables, paneer, lamb, beef or chicken.
