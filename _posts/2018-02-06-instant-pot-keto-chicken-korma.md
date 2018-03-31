@@ -13,13 +13,14 @@ recipe:
   cook: Cook time - 20 minutes
   ingredients_markdown: |-
     *  Chicken thighs, cut into 1-inch pieces, 2.5 pounds       
-    *  Marination:
+    *  MARINATION:
     *  Chilly powder/cayenne pepper, 1 Tsp
     *  Lemon, 1/2
     *  Salt as needed
-    *  Curry:
+    *  CURRY:
     *  Cashews, 5 oz
     *  Coriander powder, 2 Tsp
+    *  Cumin seeds, 1/2 Tsp
     *  Garam masala, 1 1/4 Tsp
     *  Turmeric, 1/4 Tsp
     *  Ginger, mined, 1/2 tbs
