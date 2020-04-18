@@ -7,7 +7,7 @@ image_view: true
 
 
 {% if page.image_view %}
-	{% for category in site.blog_categories %}
+	{% for category in site.categories %}
 		<h2>{{ category[0] }}</h2>
 		<div class="blogs">
 			{% for blog in category[1] %}
