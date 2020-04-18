@@ -46,7 +46,7 @@ defaults:
           height: 2000
   -
     scope:
-      path: "/blog"
+      path: "/blog/"
       type: "posts"
     values:
       layout: "blog"
