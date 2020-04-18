@@ -33,22 +33,6 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-      push_sidebar_down: true
-      print_stylesheet: true
-      comments: true
-      _options:
-        content:
-          width: 1560
-          height: 2000
-        featured_image:
-          width: 1560
-          height: 2000
-  -
-    scope:
-      path: "blog.html"
-      type: "posts"
-    values:
       layout: "blog"
       push_sidebar_down: true
       print_stylesheet: true
