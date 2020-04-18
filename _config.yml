@@ -27,13 +27,33 @@ paginate: 10
 paginate_path: "/:num/"
 permalink: pretty
 
+collections:
+  blogs:
+    output: true
+
 defaults:
+  -
+    scope:
+      path: ""
+      type: "blogs"
+    values:
+      layout: "blog"
+      push_sidebar_down: true
+      print_stylesheet: true
+      comments: true
+      _options:
+        content:
+          width: 1560
+          height: 2000
+        featured_image:
+          width: 1560
+          height: 2000
   -
     scope:
       path: ""
       type: "posts"
     values:
-      layout: "blog"
+      layout: "post"
       push_sidebar_down: true
       print_stylesheet: true
       comments: true
