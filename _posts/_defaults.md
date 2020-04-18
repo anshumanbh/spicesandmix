@@ -1,7 +1,6 @@
 ---
 title:
 categories:
-blog_categories:
 date:
 featured_image:
 image_name:
