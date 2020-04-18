@@ -7,7 +7,7 @@ layout: default
 		<img src="{{ page.featured_image }}" alt="{{ page.image_name }}">
 	</div>
 
-	<div class="recipe-body">
+	<div class="blog-body">
 		{{ content }}
 	</div>
 
@@ -17,7 +17,7 @@ layout: default
 		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=I'm%20going%20to%20this%20event!">{% include social-icon.html icon="Twitter" %}</a>
 		<a class="google-plus" href="https://plus.google.com/share?url={{ share_url }}">{% include social-icon.html icon="Google Plus" %}</a>
 		<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include social-icon.html icon="Pinterest" %}</a>
-		<a class="email" href="mailto:?subject=I've%20found%20a%20great%20recipe&amp;body=Check%20it%20out%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
+		<a class="email" href="mailto:?subject=I've%20found%20a%20great%20blog&amp;body=Check%20it%20out%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
 	</div>
 
 	{% if site.disqus_shortname and page.comments %}

@@ -4,12 +4,17 @@ image_view: true
 ---
 <h1>Blog</h1>
 
+
+
 {% if page.image_view %}
-	<div class="recipes">
-		{% for recipe in "Blog" %}
-			<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
-				<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
-			</div>
-		{% endfor %}
-	</div>
+	{% for category in site.categories %}
+		<h2>{{ category[0] }}</h2>
+		<div class="blogs">
+			{% for blog in category[1] %}
+				<div class="blog" style="background-image: url('{{ blog.featured_image }}')">
+					<a href="{{ blog.url }}"><span>{{ blog.title }}</span></a>
+				</div>
+			{% endfor %}
+		</div>
+	{% endfor %}
 {% endif %}
