@@ -8,10 +8,13 @@ image_view: true
 
 {% if page.image_view %}
 	{% for category in site.categories %}
-		{% if category is 'Vegetarian' %}
-			<div class="blog" style="background-image: url('{{ blog.featured_image }}')">
-				<a href="{{ blog.url }}"><span>{{ blog.title }}</span></a>
-			</div>
-    	{% endif %}
+		<h2>{{ category[0] }}</h2>
+		{% comment %} <div class="blogs">
+			{% for blog in category[1] %}
+				<div class="blog" style="background-image: url('{{ blog.featured_image }}')">
+					<a href="{{ blog.url }}"><span>{{ blog.title }}</span></a>
+				</div>
+			{% endfor %}
+		</div> {% endcomment %}
 	{% endfor %}
 {% endif %}
