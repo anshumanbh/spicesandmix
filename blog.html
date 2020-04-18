@@ -8,6 +8,6 @@ image_view: true
 
 {% if page.image_view %}
 	{% for category in site.categories %}
-    	<h2>{{ category }}</h2>
+    	<h2>{{ category[0] }}</h2>
 	{% endfor %}
 {% endif %}
