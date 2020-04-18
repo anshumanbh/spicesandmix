@@ -3,6 +3,13 @@ layout: default
 ---
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
+	<script type="text/javascript">
+		onload=function(){
+		var mydiv=document.getElementById('ingredients');
+		if(!mydiv.hasChildNodes()){mydiv.style.display='none'}
+		}
+	</script>
+
 	<div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.image_name }}">
 	</div>
