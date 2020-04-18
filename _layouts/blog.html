@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<article class="post">
-	{% include post-heading.html post=page post_page=true %}
+<article class="blog">
+	{% include blog-heading.html blog=page blog_page=true %}
 	<div class="image">
 		<img src="{{ page.featured_image }}" alt="{{ page.image_name }}">
 	</div>
@@ -43,7 +43,7 @@ layout: default
 <script type="text/javascript" src="/js/jquery.imgPin.min.js"></script>
 <script>
 	$(function() {
-		$('.post img').imgPin();
+		$('.blog img').imgPin();
 
 		$('a[href*=\\#]').on('click', function(event){
 			var el = $(this.hash);
