@@ -8,8 +8,8 @@ image_view: true
 
 {% if page.image_view %}
 	{% for category in site.categories %}
-		{% if 'Test' in category[0] %}
-    		<h2>{{ category[0] }}</h2>
+		{% comment %} {% if 'Test' in category %} {% endcomment %}
+    		<h2>{{ category }}</h2>
 			{% comment %} <div class="blogs">
 			{% for blog in category[1] %}
 				<div class="blog" style="background-image: url('{{ blog.featured_image }}')">
@@ -17,6 +17,6 @@ image_view: true
 				</div>
 			{% endfor %}
 			</div> {% endcomment %}
-		{% endif %}
+		{% comment %} {% endif %} {% endcomment %}
 	{% endfor %}
 {% endif %}
