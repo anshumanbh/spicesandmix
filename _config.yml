@@ -55,12 +55,6 @@ defaults:
     values:
       layout: "default"
       push_sidebar_down: true
-  -
-    scope:
-      path: "blog.html"
-    values:
-      layout: "blog"
-      push_sidebar_down: true
 
 gems:
   - jekyll-sitemap
