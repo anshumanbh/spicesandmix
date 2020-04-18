@@ -7,10 +7,10 @@ image_view: true
 {% if page.image_view %}
 	{% for category in site.categories %}
 		{% if category[0] == 'Test' %}
-			<div class="blogs">
-			{% for blog in category[1] %}
-				<div class="blog" style="background-image: url('{{ blog.featured_image }}')">
-					<a href="{{ blog.url }}"><span>{{ blog.title }}</span></a>
+			<div class="recipes">
+			{% for recipe in category[1] %}
+				<div class="recipe" style="background-image: url('{{ recipe.featured_image }}')">
+					<a href="{{ recipe.url }}"><span>{{ recipe.title }}</span></a>
 				</div>
 			{% endfor %}
 			</div>
