@@ -46,8 +46,7 @@ defaults:
           height: 2000
   -
     scope:
-      path: "/blog/*"
-      type: "posts"
+      path: "blog/"
     values:
       layout: "blog"
       push_sidebar_down: true
