@@ -1,16 +1,16 @@
 ---
 date: 2020-04-30
-title: Achari Aloo Gobhi
+title: Achaari Aloo Gobhi
 categories:
   - Vegetarian
 featured_image: https://i.ibb.co/DQ8bzn0/800-FC062-F098-4952-9085-20700-A9-CA4-ED.jpg
-image_name: achari-aloo-gobhi.jpg
+image_name: achaari-aloo-gobhi.jpg
 recipe:
   servings: Servings - 3-4
   prep: Prep time - 15 minutes
   cook: Cook time - 20-30 minutes
   ingredients_markdown: |-
-    * Achari Masala, instructions in the 1st step
+    * Achaari Masala, instructions in the 1st step
     * Cauliflower, 1 medium sized, cut into bite size pieces
     * Potatoes, 3 medium size, cut into 1-inch cubes
     * Cilantro, 1 cup, finely chopped
