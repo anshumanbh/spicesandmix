@@ -18,7 +18,6 @@ recipe:
     * Fenugreek seeds, 1/2 tsp
     * Coriander seeds, 2 tbsp
     
-    
     * Cauliflower, 1 medium sized, cut into bite size pieces
     * Potatoes, 3 medium size, cut into 1-inch cubes
     * Cilantro, 1 cup, finely chopped
