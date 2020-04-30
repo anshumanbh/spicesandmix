@@ -3,7 +3,7 @@ date: 2020-04-30
 title: Achari Aloo Gobhi
 categories:
   - Vegetarian
-featured_image: https://ibb.co/QMCcpGy
+featured_image: https://i.ibb.co/DQ8bzn0/800-FC062-F098-4952-9085-20700-A9-CA4-ED.jpg
 image_name: achari-aloo-gobhi.jpg
 recipe:
   servings: Servings - 3-4
