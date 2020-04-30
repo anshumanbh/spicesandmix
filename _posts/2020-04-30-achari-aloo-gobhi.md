@@ -10,14 +10,7 @@ recipe:
   prep: Prep time - 15 minutes
   cook: Cook time - 20-30 minutes
   ingredients_markdown: |-
-    * Achaari Masala
-    * Fennel seeds, 1 tsp
-    * Cumin seeds, 1 tsp
-    * Nigella seeds, 1 tsp
-    * Mustard seeds, 1 tsp
-    * Fenugreek seeds, 1/2 tsp
-    * Coriander seeds, 2 tbsp
-    
+    * Achari Masala, instructions in the 1st step
     * Cauliflower, 1 medium sized, cut into bite size pieces
     * Potatoes, 3 medium size, cut into 1-inch cubes
     * Cilantro, 1 cup, finely chopped
@@ -37,7 +30,14 @@ recipe:
     * Water as needed
     * Salt to taste
   directions_markdown: |-
-    1. In a frying pan roast all the seeds on low flame till they start giving off an aroma. Should take 3-4 minutes. Cool it down and grind them to a fine powder. This is the Achaari Masala. Store it in an airtight container.
+    1. In a frying pan roast all the seeds on low flame till they start giving off an aroma:
+    * Fennel seeds, 1 tsp
+    * Cumin seeds, 1 tsp
+    * Nigella seeds, 1 tsp
+    * Mustard seeds, 1 tsp
+    * Fenugreek seeds, 1/2 tsp
+    * Coriander seeds, 2 tbsp
+    This Should take 3-4 minutes. Cool it down and grind them to a fine powder. This is the Achaari Masala. Store it in an airtight container.
     2. In a pan heat 2 tbsp oil. Add chopped cauliflower and heat on a high flame. After 2 minutes add 1/2 tsp salt and 2-3 tbsp water. As soon as water heats up cover the pan and let cauliflower cook in steam for 3-4 minutes on medium low flame. Cook till cauliflower is soft but not mushy. 
     3. Once cooked remove cauliflower from the pan and keep it aside.
     4. Add 1 tbsp oil to the pan (or less if there is leftover oil in the pan). Add potatoes and 1/2 tsp salt. Cook on high flame till potatoes get light golden color on all sides. 
