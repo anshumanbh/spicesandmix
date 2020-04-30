@@ -31,12 +31,12 @@ recipe:
     * Salt to taste
   directions_markdown: |-
     1. In a frying pan roast all the seeds on low flame till they start giving off an aroma:
-    * Fennel seeds, 1 tsp
-    * Cumin seeds, 1 tsp
-    * Nigella seeds, 1 tsp
-    * Mustard seeds, 1 tsp
-    * Fenugreek seeds, 1/2 tsp
-    * Coriander seeds, 2 tbsp
+    - Fennel seeds, 1 tsp
+    - Cumin seeds, 1 tsp
+    - Nigella seeds, 1 tsp
+    - Mustard seeds, 1 tsp
+    - Fenugreek seeds, 1/2 tsp
+    - Coriander seeds, 2 tbsp
     This Should take 3-4 minutes. Cool it down and grind them to a fine powder. This is the Achaari Masala. Store it in an airtight container.
     2. In a pan heat 2 tbsp oil. Add chopped cauliflower and heat on a high flame. After 2 minutes add 1/2 tsp salt and 2-3 tbsp water. As soon as water heats up cover the pan and let cauliflower cook in steam for 3-4 minutes on medium low flame. Cook till cauliflower is soft but not mushy. 
     3. Once cooked remove cauliflower from the pan and keep it aside.
