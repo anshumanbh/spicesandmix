@@ -48,7 +48,7 @@ recipe:
     7. Add chopped onions, ginger garlic paste and a pinch of salt. Let onions sauté on medium flame till light golden brown.
     8. Now add tomatoes, cook on high flame for a minute. Lower the flame and add little salt, turmeric, chilli powder, coriander powder and 2-3 tsp achaari masala. Mix well and let it cook on medium slow flame till the spices are cooked and tomatoes are soft.
     9. At this point add previously cooked cauliflower and potatoes and mix well. Cover the pan and cook on a medium flame for 3-4 minutes.
-    10. Now add yogurt and mix well. Taste to check the seasoning and add salt accordingly.
+    10. Now add yogurt and cilantro and mix well. Taste to check the seasoning and add salt accordingly.
   
     NOTE:
     1. I make extra achaari masala and store it in an airtight container. It can be used on any other veggie/curries or on roasted veggies, meat or in marinations.
