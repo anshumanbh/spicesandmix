@@ -49,4 +49,4 @@ This is the best Instant Pot dish I have cooked and tried yet. Hands down!! Incr
 
 Don’t have an Instant Pot? Don’t worry. Follow the same recipe and cook it on a gas stove. 
 
-![1](https://i.ibb.co/pKpMScz/IMG-2447.jpg)
+![1](https://i.ibb.co/6t5TkzP/IMG-2447.jpg)
