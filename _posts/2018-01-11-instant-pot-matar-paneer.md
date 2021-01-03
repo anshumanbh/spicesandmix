@@ -4,7 +4,7 @@ title: Instant Pot Matar Paneer
 categories:
   - Vegetarian
   - Instant Pot
-featured_image: https://image.ibb.co/jvu5g6/fullsizeoutput_3302.jpg
+featured_image: https://i.ibb.co/GCgF0zH/IMG-2449.jpg
 image_name: instant-pot-matar-paneer.jpg
 recipe:
   servings: Servings - 4-6
@@ -48,3 +48,5 @@ One of the most amazing things about vegetarian curry dishes is that it can be c
 This is the best Instant Pot dish I have cooked and tried yet. Hands down!! Incredibly easy to cook and ready in about 30 minutes, this dish is perfect for quick weekday dinner and a delicious curry to serve to guests if you are hosting a dinner party.
 
 Don’t have an Instant Pot? Don’t worry. Follow the same recipe and cook it on a gas stove. 
+
+![1](https://i.ibb.co/pKpMScz/IMG-2447.jpg)
