@@ -24,5 +24,4 @@ recipe:
     3. Add black pepper and coconut water to the juice and mix well.
     4. Pour them in 2oz small bottles for individual use and refrigerate them.
     5. Have one shot morning and evening on empty stomach for best effects.
-
 ---
