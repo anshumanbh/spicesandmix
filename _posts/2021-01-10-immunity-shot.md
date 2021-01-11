@@ -19,19 +19,12 @@ recipe:
     * Juicer
     * 2 oz glass bottles, 12
   directions_markdown: |-
-    1. Wash Basmati rice and keep it aside.
-    2. Heat 1 tbsp oil in a pan and sauté paneer in medium high flame, till it turns light brown from all sides (over cooking the paneer will make it hard). Remove from flame and set aside.
-    3. Switch on instant pot in “sauté” mode. Add remaining oil, cumin seeds, bay leaves and cardamom and let it heat for 30 seconds. 
-    4. Slit green chillies vertically and add to oil. Add onions and let it sauté for 2-3 minutes, till it turns light brown. Adding a pinch of salt speeds up the sautéing process.
-    5. Add tomatoes, ground coriander, garam masala and half cup water in the pot. (Spice lovers, add some cayenne pepper). Water will prevent the spices from getting burnt. Keep stirring to prevent it from sticking to the surface of the pot. Sauté it for 2 minutes, or until most of the water is evaporated. This will help the spices to get cooked and not have a raw taste.
-    6. At this point add paneer, broccoli, coriander, mint and mix it well with all the spices. 
-    7. Add rice and raisins and mix it with all other ingredients for 30 seconds. Do not let it stick to the surface.
-    8. Add 4 cups of water and saffron water. Add salt to taste.
-    9. Turn Instant pot off and cover with the lid. Turn it back on to high pressure and set the timer for 5 minutes. Keep steam release handle in Sealing position.
-    10. When the time is up, do a quick release and carefully open the lid.
-    11. Turn off Instant Pot and serve Paneer Pulao with Mint raita.
+    1. Wash turmeric and ginger roots well. You can use a vegetable brush to give them a good scrub.
+    2. In the juicer add ginger and juice to it, followed by turmeric and then peeled lemons. Mix all the juices.
+    3. Add black pepper and coconut water to the juice and mix well.
+    4. Pour them in 2oz small bottles for individual use and refrigerate them.
+    5. Have one shot morning and evening on empty stomach for best effects.
 
-    Note - If you are using pre-packaged Paneer, submerge it in warm water for 15 minutes before removing it from package. This will make Paneer extra soft. You can also add any vegetable you like and can follow the same recipe.
 ---
 In India, growing up I ate many versions of Rice - as Biryani, Pulao, Fried Rice - and all with same kind of rice. Being a meat lover, I still refuse to call Biryani without meat as Veg Biryani, simply because that doesn’t make sense to me. ;) 
 
