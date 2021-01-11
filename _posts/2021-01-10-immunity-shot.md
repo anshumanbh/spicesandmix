@@ -22,7 +22,7 @@ recipe:
     1. Wash turmeric and ginger roots well. You can use a vegetable brush to give them a good scrub.
     2. In the juicer add ginger and juice it, followed by turmeric and then peeled lemons. Mix all the juices.
     3. Add black pepper and coconut water to the juice and mix well.
-    4. Pour them in 2oz small bottles for individual use and refrigerate them.
+    4. Pour the liquid in 2oz small bottles for individual use and refrigerate them.
     5. Have one shot morning and evening on empty stomach for best effects.
 
 ---
