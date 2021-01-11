@@ -25,3 +25,4 @@ recipe:
     4. Pour them in 2oz small bottles for individual use and refrigerate them.
     5. Have one shot morning and evening on empty stomach for best effects.
 ---
+Ginger-Turmeric Immunity Shot
